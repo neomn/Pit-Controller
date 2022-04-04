@@ -1,0 +1,1 @@
+set serial rx buffer size to 94
